@@ -1,1 +1,2 @@
 # OIBSIP_L2T2
+As a Oasis Infobyte Web Development and Designing Intern I am sharing the completed tasks of the internship. This is a repositroy of Web Development Level 2, Task 2 which included creation of a tribute page using HTML and CSS. This web page provides its tribute to the Current Olympic Champion, World No.1 Neeraj Chopra. His early life and landmark achievements are listed along with his golden moment of clinching the historic Olympic Gold!!
