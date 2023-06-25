@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Audiowide&family=Bangers&family=Cabin+Sketch&family=Creepster&family=Fondamento&family=Fredericka+the+Great&family=IM+Fell+English+SC&family=Kanit&family=Kaushan+Script&family=Lobster&family=Marck+Script&family=Merienda&family=Permanent+Marker&family=Roboto+Slab&family=Rubik+Bubbles&family=Rye&family=Shadows+Into+Light&family=Special+Elite&family=Yatra+One&display=swap');
+body{
+    background-image: linear-gradient(to right, #f8e356, #ff4f8b, #e3b1f6);
+}
+.moment{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.NC{
+    margin-left: 400px;
+}
+.earlylife, .achievements{
+    text-align: justify;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family: 'Courgette', cursive;
+}
+h1{
+    font-family: 'Audiowide', cursive;
+    text-align: center;
+    color:gold;
+    text-shadow: 2px 2px 4px black;;
+}
+.quote{
+    font-family: 'Yatra One', cursive;
+    font-size: medium;
+    margin-left: 10px;
+    margin-right: 10px;
+}
